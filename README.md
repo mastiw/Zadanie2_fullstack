@@ -17,7 +17,7 @@ konfiguracyjnego, który jest dostępny na moodle w katalogu Zadanie 2 (plik: za
 - Dodano tokeny użytkownika AWS do Travis w celu ich użycia do odwołań w pliku .yml
 - Dodano plik travis.yml zawierający konfigurację Travisa
 
-####W przypadku próby wykonania dwóch deploymentów na raz wystąpi błąd, gdyż nie istnieje możliwość równoczesnego deploya. Należy uruchomić ponownie, aby zaaplikować drugi deploy.
+#### W przypadku próby wykonania dwóch deploymentów na raz wystąpi błąd, gdyż nie istnieje możliwość równoczesnego deploya. Należy uruchomić ponownie, aby zaaplikować drugi deploy.
 
 ![image](https://user-images.githubusercontent.com/62160228/172723327-de31401c-2f60-40da-bf9f-db5f7d44958d.png)
 
