@@ -1,0 +1,25 @@
+sudo: required
+language: generic
+
+services:
+  - docker
+
+before_install:
+  - docker build -t spglab/wyk7 -f Dockerfile.dev2 .
+
+script:
+  - docker run -e CI=true spglab/wyk7 npm run test
+
+deploy:
+  provider: elasticbeanstalk
+  region: "us-east-2"
+  app: "mwojcikzadanie2"
+  env: "Mwojcikzadanie2-env"
+  bucket_name: "elasticbeanstalk-us-east-2-472854583402"
+  bucket_path: "mwojcikzadanie2"
+  edge: true
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+
