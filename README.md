@@ -23,4 +23,7 @@ konfiguracyjnego, który jest dostępny na moodle w katalogu Zadanie 2 (plik: za
 
 ![image](https://user-images.githubusercontent.com/62160228/172723948-a1364611-5174-4ced-aa3c-1f5dd93c06cf.png)
 
+![image](https://user-images.githubusercontent.com/62160228/172732991-472d56eb-d5bc-4ad8-9241-76a8072d03b8.png)
+
+
 
