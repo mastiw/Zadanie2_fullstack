@@ -56,4 +56,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: mastiw/Zadanie2_fullstack
+          tags: mastiw/zadanie2_fullstack
