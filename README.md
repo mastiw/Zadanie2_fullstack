@@ -1,5 +1,8 @@
 # Zadanie 2 - Programowanie Fullstack w Chmurze Obliczeniowej
 
+#### Link do aplikacji na AWS: http://mwojcikzadanie2-env.eba-veukaamm.us-east-2.elasticbeanstalk.com/
+#### Link do repozytorium Dockerhub: https://hub.docker.com/repository/docker/mastiw/zadanie2_fullstack/ 
+
 ### Część 1
 
 Proszę uruchomić przygotowaną aplikację na platformie AWS, usługa EBS. W tym celu należy
@@ -19,8 +22,6 @@ konfiguracyjnego, który jest dostępny na moodle w katalogu Zadanie 2 (plik: za
 
 #### W przypadku próby wykonania dwóch deploymentów na raz wystąpi błąd, gdyż nie istnieje możliwość równoczesnego deploya. Należy uruchomić ponownie, aby zaaplikować drugi deploy.
 
-#### Link do aplikacji na AWS: http://mwojcikzadanie2-env.eba-veukaamm.us-east-2.elasticbeanstalk.com/
-#### Link do repozytorium Dockerhub: https://hub.docker.com/repository/docker/mastiw/zadanie2_fullstack/ <br/>
 
 ![image](https://user-images.githubusercontent.com/62160228/172723327-de31401c-2f60-40da-bf9f-db5f7d44958d.png)
 
