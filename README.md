@@ -32,4 +32,15 @@ konfiguracyjnego, który jest dostępny na moodle w katalogu Zadanie 2 (plik: za
 ![image](https://user-images.githubusercontent.com/62160228/172732991-472d56eb-d5bc-4ad8-9241-76a8072d03b8.png)
 
 
+### Część dodatkowa
+
+Zadanie w tej części polega na rozbudowaniu pliku wdrożenia w GitHub Action. W ramach tego rozszerzenia:
+
+- a. GitHub Ations ma zbudować obraz aplikacji i przesłać go na repozytorium DockerHub. Proszę w tym celu wykorzystać wiedzę i konfigurację przygotowaną w ramach zadania nr 1.
+
+Zmodyfikowano plik .yml z katalogu workflows oraz dodano tokeny pozwalające na autoryzację i przesłanie obrazu na DockerHub.
+
+![image](https://user-images.githubusercontent.com/62160228/172923386-027c2d18-c81b-400f-b1b9-2f8abb34911b.png)
+
+![image](https://user-images.githubusercontent.com/62160228/172922865-77b459e9-afbb-40af-85d1-d6af85597093.png)
 
